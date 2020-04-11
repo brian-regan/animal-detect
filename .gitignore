@@ -227,3 +227,6 @@ fabric.properties
 # Dataset
 
 Data/savmap_dataset_v2
+
+# DS_Store
+*.DS_Store
